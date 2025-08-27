@@ -1,2 +1,2 @@
 # Data folders
-output_folder = 'processed'
+output_folder = 'datasets'
