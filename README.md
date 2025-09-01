@@ -29,6 +29,7 @@ python3 main.py --dataset <dataset>
 - UCR
 - WADI
 
+## Example
 To run the model on the MBA dataset:
 ```bash
 python3 main.py --dataset MBA
