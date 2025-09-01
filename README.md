@@ -17,7 +17,9 @@ To run the model on the MBA dataset:
 python3 main.py --dataset MBA
 ```
 # Benchmmark
-To run a model on a dataset, run the following command:
+To evaluate the model latency on a specific dataset, run:
 ```bash
 python3 benchmark.py --dataset <dataset>
 ```
+
+
