@@ -9,7 +9,8 @@ Run the model on a dataset with:
 ```bash
 python3 main.py --dataset <dataset>
 ```
-Example
+Available datasets :
+MBA MSDS MSL NAB SMAP SMD SWaT UCR WADI
 
 To run the model on the SMAP dataset:
 ```bash
