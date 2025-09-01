@@ -16,7 +16,7 @@ trainD, testD = convert_to_windows(trainD, model), convert_to_windows(testD, mod
 torch.zero_grad = True
 model.eval()
 
-print(f'{color.HEADER}test model latency on {args.dataset}{color.ENDC}')
+print(f'{color.HEADER}Model latency on {args.dataset}{color.ENDC}')
 times = []
 for rep in range(10):
     start_time = time.perf_counter()
