@@ -19,6 +19,8 @@ Run the model on a dataset with:
 python3 main.py --dataset <dataset>
 ```
 ## Available datasets
+- MBA
+- MSDS
 MBA MSDS MSL NAB SMAP SMD SWaT UCR WADI
 
 To run the model on the MBA dataset:
