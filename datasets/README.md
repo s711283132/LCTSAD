@@ -1,4 +1,9 @@
-## Dataset Download
+## Dataset 
+
+The datasets provided in this repository are not originally created by us.  
+They are obtained from [Original GitHub Repository](https://github.com/imperial-qore/TranAD), and all credits go to the original authors.  
+
+Please note that the datasets included here have already gone through the preprocessing pipeline described in the original repository, so they can be directly used for training and evaluation without additional preprocessing steps.
 
 You can download the dataset from Google Drive:
 
